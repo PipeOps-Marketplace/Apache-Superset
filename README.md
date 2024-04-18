@@ -13,7 +13,7 @@ Please make sure to change the default credentials immediately after deployment 
 ## Getting Started  
 To quickly deploy Apache Superset on PipeOps, simply click the "Deploy on PipeOps" button below:
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](https://railway.app/template/0ELOuE?referralCode=IQhE0B)
+[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
 
 
 This button will initiate the deployment process.  PipeOps will handle the underlying infrastructure and configuration, making it easy for you to get started with Apache Superset.
